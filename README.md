@@ -1,4 +1,5 @@
 Câu 1:
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,6 +10,7 @@ Câu 1:
     Chào mừng bạn đã đến với ngôn ngữ thiết kế web <b>HTML</b>(<i>HyperText Markup Language</i>)
 </body>
 </html>
+
 Câu 2:
 <!DOCTYPE html>
 <html>
@@ -22,6 +24,7 @@ Câu 2:
     <p>I study <i>Information Technology</i> at FIT.HCMUE.</p>
 </body>
 </html>
+
 Câu 3:
 <!DOCTYPE html>
 <html>
@@ -38,4 +41,35 @@ Câu 3:
     <h6 align="left">This is a heading 6</h6>
 </body>
 </html>
+
 Câu 4:
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Hello FIT,HCMUE</title>
+</head>
+<body>
+    <h1>CÔ HÁI MƠ</h1>
+    <p><i>Thơ thẩn đường chiều một khách thơ,</i><br>
+    <i>Say nhìn xa rặng núi xanh lơ,</i><br>
+    Khí trời lặng lẽ và trong trẻo,<br>
+    Thấp thoáng rừng mơ, <b>Cô hái mơ</b><br>
+    <u>Tác giả</u>: <s><i>Vô danh</i></s></p>
+</body>
+</html>
+
+Câu 5:
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Hello FIT,HCMUE</title>
+</head>
+<body>
+    <p><b>Văn bản có chỉ số trên/dưới</b></p>
+    <p>AX<SUP>2</SUP> + BX + C = 0</p>
+    <p>Hôm nay thời tiết: 35<SUP>o</SUP>C</p>
+    <p>H<SUB>2</SUB>SO<SUB>4</SUB> + BaCl<SUB>2</SUB></p>
+</body>
+</html>
