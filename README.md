@@ -30,7 +30,7 @@ Câu 3:
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Hello FIT,HCMUE</title>
+    <title>Thẻ heading, canh dòng</title>
 </head>
 <body>
     <h1 align="center">This is a heading 1</h1>
@@ -47,7 +47,7 @@ Câu 4:
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Hello FIT,HCMUE</title>
+    <title>định dạng tổng hợp</title>
 </head>
 <body>
     <h1>CÔ HÁI MƠ</h1>
@@ -64,7 +64,7 @@ Câu 5:
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Hello FIT,HCMUE</title>
+    <title>Chỉ số trên ,dưới</title>
 </head>
 <body>
     <p><b>Văn bản có chỉ số trên/dưới</b></p>
